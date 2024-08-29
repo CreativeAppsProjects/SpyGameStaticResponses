@@ -1,0 +1,18 @@
+{
+  "forceUpdates": {
+    "version" : ["1.1.0""],
+    "title": "Force update",
+    "description" : "This version is no longer supported please update the app form App Store"
+  },
+  "latestVersion": {
+    "version": "1.1.2",
+    "type": "normal",
+    "description": "Performance improvements and minor bug fixes.",
+    "releaseNotes": [
+      "Enhanced app performance.",
+      "Resolved minor issues."
+    ],
+    "downloadUrl": "https://example.com/app-download-v1.1.2",
+    "releaseDate": "2024-08-25"
+  }
+}
