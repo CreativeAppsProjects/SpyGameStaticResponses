@@ -116,6 +116,7 @@
   {
   "id": 100006,
   "name": "Wonders",
+  "isHidden": true,
   "isSelected": false,
   "numberOfWords": 5,
   "words": [
